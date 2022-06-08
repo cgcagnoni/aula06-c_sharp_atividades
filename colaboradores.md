@@ -1,6 +1,6 @@
 # Colaboradores
 
-Amanda Barreto
-Caroliny S Q G Cagnoni
-Hugo Diniz
-Jaqueline Rossetto
+Amanda Barreto  
+Caroliny S Q G Cagnoni  
+Hugo Diniz  
+Jaqueline Rossetto  
